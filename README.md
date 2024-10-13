@@ -2,18 +2,18 @@
 Overview
 This project simulates a basic ATM system using C++ and object-oriented programming (OOP) concepts. The system allows users to perform basic banking operations such as setting a PIN, withdrawing cash, depositing money, and checking their account balance.
 
-Features
-Set a PIN for the account
-Withdraw cash from the account
-Deposit money into the account
-Check the current account balance
-Exit the system
-Technical Details
-The project uses C++ as the programming language
-The system is designed using object-oriented programming (OOP) concepts
-The ATM class encapsulates the data and behavior of the ATM system
-The main function provides a simple text-based interface for users to interact with the system
-How to Use
+Features-
+Set a PIN for the account,
+Withdraw cash from the account,
+Deposit money into the account,
+Check the current account balance,
+Exit the system.
+Technical Details-
+The project uses C++ as the programming language,
+The system is designed using object-oriented programming (OOP) concepts,
+The ATM class encapsulates the data and behavior of the ATM system,
+The main function provides a simple text-based interface for users to interact with the system,
+How to Use-
 Clone the repository to your local machine
 Compile the code using a C++ compiler (e.g. g++)
 Run the executable file to start the ATM simulation
